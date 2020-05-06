@@ -1,7 +1,8 @@
 // ==UserScript==
 // @name         MargoAddonsME(SI)
 // @version      2.0Final
-// @author       KaciPL
+// @description  Dodatki zbudowane na bazie menadżera dodatków Patix0331 (https://pastebin.com/DBHh9i48)
+// @author       KaciPL#8830
 // @match        http://*.margonem.pl/
 // @grant        none
 // ==/UserScript==
