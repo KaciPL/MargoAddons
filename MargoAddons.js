@@ -3,7 +3,7 @@
 // @version      2.0Final
 // @author       KaciPL
 // @match        http://*.margonem.pl/
-// @grant none
+// @grant        none
 // ==/UserScript==
 
 localStorage.setItem(`disable-lf-b`, 1)
